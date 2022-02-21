@@ -1,0 +1,1 @@
+# FOSSGIS2022-PostGIS-Generalisierungs-Demo
