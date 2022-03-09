@@ -16,5 +16,5 @@ Code zur Demosession bei der FOSSGIS 2022
     
 ## Lizenz
 
-Bei den jeweiligen SQL-Funktionen ist auf jeweils auf die Quelle verwiesen mit der jeweiligen Lizenz. Meine Beiträge stelle ich unter die license:mit Lizenz. Über Verbesserungsvorschläge und Ideen freue ich mich.
+Bei den jeweiligen SQL-Funktionen ist auf jeweils auf die Quelle verwiesen mit der jeweiligen Lizenz. Meine Beiträge stelle ich unter die MIT-Lizenz. Über Verbesserungsvorschläge und Ideen freue ich mich.
 
